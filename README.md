@@ -14,7 +14,7 @@ https://miro.com/app/board/uXjVKKkB6uI=/?share_link_id=33815948017
 Copie o conteúdo do arquivo "openapi.yaml" e cole no Swagger Editor
 https://editor.swagger.io/
 
-## Documentação da API
+## Curls de Exemplo
 ### Adicionar um lanche ao cardápio:
 ```
 curl --request POST \
