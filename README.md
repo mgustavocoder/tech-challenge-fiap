@@ -7,6 +7,12 @@ O design estratégico e tático do DDD, além do Event Storming pode ser encontr
 
 https://miro.com/app/board/uXjVKKkB6uI=/?share_link_id=33815948017
 
+
+## Configuração do banco de dados.
+É preciso alterar as configurações do banco de dados no seguinte arquivo:
+https://github.com/mgustavocoder/tech-challenge-fiap/blob/main/src/common/config/constants.ts
+
+
 ## Modelo Entidade-Relacionamento (MER)
 ![alt text](image.png)
 
